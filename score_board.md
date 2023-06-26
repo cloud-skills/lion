@@ -45,10 +45,10 @@ Mon Jun 26 04:06:34 UTC 2023
 
 # traffic-1
 ### success request count
-- 101:
-- 102:
-- 103:
-- 104:
+- 101: 9360
+- 102: 5459
+- 103: 149
+- 104: 181
 
 ### instance count
 - 101:
