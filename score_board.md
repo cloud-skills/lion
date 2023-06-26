@@ -58,10 +58,10 @@ Mon Jun 26 04:06:34 UTC 2023
 
 # traffic-2
 ### success request count
-- 101: 9154
-- 102: 4795
+- 101: 25714
+- 102: 13145
 - 103: 0
-- 104: 39845
+- 104: 50000
 
 ### instance count
 - 101: 4 (last)
