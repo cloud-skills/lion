@@ -68,3 +68,16 @@ Mon Jun 26 04:06:34 UTC 2023
 - 102: 2 (last)
 - 103: 1 (last)
 - 104: null (last)
+
+# traffic-3
+### success request count
+- 101: 0
+- 102: 0
+- 103: 0
+- 104: 0
+
+### instance count
+- 101:  (last)
+- 102:  (last)
+- 103:  (last)
+- 104:  (last)
