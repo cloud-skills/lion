@@ -3,7 +3,7 @@
 # provisoned time
 Mon Jun 26 04:06:34 UTC 2023
 
-- 101
+- 101 : 5
 ```
 /v1/unicorn POST 201 0.036234
 /v1/unicorn GET 200 0.029865
@@ -13,7 +13,7 @@ Mon Jun 26 04:06:34 UTC 2023
 /v1/status GET 200 0.028852
 ```
 
-- 102
+- 102 : 1
 ```
 /v1/unicorn POST 404 0.005016
 /v1/unicorn GET 404 0.001317
@@ -23,7 +23,7 @@ Mon Jun 26 04:06:34 UTC 2023
 /v1/status GET 200 0.004469
 ```
 
-- 103
+- 103 : 0
 ```
 /v1/unicorn POST 409 0.007079
 /v1/unicorn GET 409 0.004667
@@ -33,7 +33,7 @@ Mon Jun 26 04:06:34 UTC 2023
 /v1/status GET 409 0.004369
 ```
 
-- 104
+- 104 : 1
 ```
 /v1/unicorn POST 404 0.001792
 /v1/unicorn GET 404 0.002639
@@ -43,12 +43,12 @@ Mon Jun 26 04:06:34 UTC 2023
 /v1/status GET 200 0.002803
 ```
 
-# traffic-1
+# traffic-1 (phase2)
 ### success request count
 - 101: 41369
 - 102: 34577
-- 103: 149
-- 104: 181
+- 103: 179
+- 104: 228
 
 ### instance count
 - 101: 4 (last)
