@@ -51,39 +51,25 @@ Mon Jun 26 04:06:34 UTC 2023
 - 104: 228
 
 ### instance count
-- 101: 4 (last)
-- 102: 2 (last)
-- 103: 2 (last)
-- 104: null (last)
+- 101: 4 (avg)
+- 102: 2 (avg)
+- 103: 0 (avg)
+- 104: 3 (avg)
 
-# traffic-2
+# traffic-2 (phase3)
 ### success request count
 - 101: 70763
 - 102: 84645
-- 103: 0
-- 104: 50000
+- 103: 202
+- 104: 50103
 
 ### instance count
-- 101: 4 (last)
-- 102: 2 (last)
-- 103: 1 (last)
-- 104: null (last)
+- 101: 4 (avg)
+- 102: 2.7 (avg)
+- 103: 0 (avg)
+- 104: 4.8 (avg)
 
 # traffic-3
-### success request count
-- 101: 0
-- 102: 0
-- 103: 0
-- 104: 0
-
-### instance count
-- 101:  (last)
-- 102:  (last)
-- 103:  (last)
-- 104:  (last)
-
-# traffic-4
-
 ### success request count
 - 101: 2073
 - 102: 3459
