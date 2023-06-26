@@ -81,3 +81,11 @@ Mon Jun 26 04:06:34 UTC 2023
 - 102:  (last)
 - 103:  (last)
 - 104:  (last)
+
+# traffic-4
+
+### success request count
+- 101: 2066
+- 102: 3455
+- 103: 0
+- 104: 21
